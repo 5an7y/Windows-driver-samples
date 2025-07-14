@@ -89,7 +89,7 @@
 /setup/ @microsoft/pnp
 
 # Print
-/print/ @microsoft/pnp
+/print/ @microsoft/core-print
 /wia/ @microsoft/core-print
 
 # Sensors Platform

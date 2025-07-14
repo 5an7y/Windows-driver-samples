@@ -47,7 +47,7 @@ CLuminous::Open(
     )
 {
     HRESULT           hResult;
-    BOOL                bRet = FALSE;
+    BOOL                bRet = TRUE;
 
     if (m_pIWbemServices) {
 

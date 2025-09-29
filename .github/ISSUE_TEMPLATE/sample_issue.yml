@@ -11,7 +11,8 @@ body:
     - /TrEE/
     - /audio/
     - /avstream/
-    - /bluetooth/
+    - /bluetooth/bthecho
+    - /bluetooth/serialhcibus
     - /filesys/cdfs/
     - /filesys/fastfat/
     - /filesys/miniFilter/

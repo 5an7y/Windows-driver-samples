@@ -16,7 +16,8 @@
 /audio/ @microsoft/windowsaudio
 
 # Bluetooth
-/bluetooth/ @microsoft/bluetooth
+/bluetooth/bthecho @microsoft/bluetooth
+/bluetooth/serialhcibus @microsoft/cameraplatdev
 
 # Camera Platform
 /avstream/ @microsoft/cameraplatdev

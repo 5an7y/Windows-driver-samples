@@ -16,10 +16,10 @@
 /audio/ @microsoft/windowsaudio
 
 # Bluetooth
-/bluetooth/ @microsoft/bluetooth
+/bluetooth/ @microsoft/cameraplatdev
 
 # Camera Platform
-/avstream/ @microsoft/cameraplatdev
+/avstream/ @microsoft/bluetooth
 /general/SimpleMediaSource/ @microsoft/cameraplatdev
 
 # Cellular Core
